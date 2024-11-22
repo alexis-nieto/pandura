@@ -10,9 +10,6 @@ com.amazon.mShop.android.shopping
 # Mi Analytics
 com.miui.analytics
 
-# Android Setup
-#$com.google.android.setupwizard
-
 # Google Restore
 com.google.android.apps.restore
 
@@ -110,7 +107,7 @@ com.netflix.mediaclient
 com.miui.videoplayer
 
 # Mi MSA Global
-#$com.miui.msa.global
+# com.miui.msa.global
 
 # Mi Mover
 com.miui.huanji
@@ -166,9 +163,6 @@ com.android.hotwordenrollment.okgoogle
 # Google Subscriptions
 com.google.android.apps.subscriptions.red
 
-# Google One Time Initializer
-com.google.android.onetimeinitializer
-
 # Google Videos
 com.google.android.videos
 
@@ -177,9 +171,6 @@ com.google.android.videos
 
 # Google Chromecast
 com.google.android.apps.chromecast.app
-
-# Mi Joyose
-com.xiaomi.joyose
 
 # Jewels Blast Adventure Free
 com.jewelsblast.ivygames.Adventure.free
@@ -192,15 +183,6 @@ com.linkedin.android
 
 # Google Tachyon
 com.google.android.apps.tachyon
-
-# Facebook App Manager
-com.facebook.appmanager
-
-# Facebook Services
-com.facebook.services
-
-# Facebook System
-com.facebook.system
 
 # Mi AI Assistant
 com.xiaomi.aicr
@@ -216,3 +198,29 @@ cn.wps.xiaomi.abroad.lite
 
 # Xiaomi Smarthome
 com.xiaomi.smarthome
+
+# Jewel Block Puzzle
+com.mintgames.schuman.ablock
+
+# Dust Settle 3D
+com.logame.eliminateintruder3d
+ 
+Error deleting com.miui.analytics: 
+Error deleting com.google.android.setupwizard: 
+Error deleting com.miui.android.fashiongallery: 
+Error deleting com.xiaomi.midrop: 
+Error deleting com.google.android.apps.photos: 
+Error deleting com.xiaomi.glgm: 
+Error deleting com.google.android.gm: 
+Error deleting com.android.hotwordenrollment.xgoogle: 
+Error deleting com.android.hotwordenrollment.okgoogle: 
+Error deleting com.google.android.onetimeinitializer: 
+Error deleting com.google.android.videos: 
+Error deleting com.xiaomi.joyose: 
+Error deleting com.google.android.apps.tachyon: 
+Error deleting com.facebook.appmanager: 
+Error deleting com.facebook.services: 
+Error deleting com.facebook.system: 
+Error deleting com.xiaomi.aicr: 
+Error deleting com.mi.globalbrowser: 
+Error deleting com.xiaomi.payment: 
