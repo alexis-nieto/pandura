@@ -1,0 +1,218 @@
+# AliExpress
+com.alibaba.aliexpresshd
+
+# Amazon Music
+com.amazon.mp3
+
+# Amazon Shopping
+com.amazon.mShop.android.shopping
+
+# Mi Analytics
+com.miui.analytics
+
+# Android Setup
+#$com.google.android.setupwizard
+
+# Google Restore
+com.google.android.apps.restore
+
+# Block Puzzle Game
+com.block.puzzle.game.hippo.mi
+
+# Booking.com
+com.booking
+
+# Bubble Shooter Mint
+com.sukhavati.gotoplaying.bubble.BubbleShooter.mint
+
+# Bubbleshooter Relaxing
+com.soulcompany.bubbleshooter.relaxing
+
+# Candy Crush Saga
+com.king.candycrushsaga
+
+# Google Chrome
+com.android.chrome
+
+# Juicer
+com.crazy.juicer.xm
+
+# Domino Dreams
+com.screenshake.dominodreams
+
+# Facebook
+com.facebook.katana
+
+# YouTube Music
+com.google.android.apps.youtube.music
+
+# YouTube
+com.google.android.youtube
+
+# Mi Global BBS
+com.mi.global.bbs
+
+# Mi Account
+#com.xiaomi.account
+
+# WPS Office
+cn.wps.moffice_eng
+
+# Fugo Wow
+com.fugo.wow
+
+# Word Trip
+com.mintgames.wordtrip
+
+# Miui Fashion Gallery
+com.miui.android.fashiongallery
+
+# VitaStudio Mahjong
+com.vitastudio.mahjong
+
+# Triple Tile Match Royale
+in.playsimple.triple.tile.matchgame.pair.three.puzzle.object.royale
+
+# Triple Crush Tile Fun
+com.mintgames.triplecrush.tile.fun
+
+# Temu
+com.einnovation.temu
+
+# Musical.ly (TikTok)
+com.zhiliaoapp.musically
+
+# Snake Game
+com.nf.snake
+
+# Spotify
+com.spotify.music
+
+# Mi Scanner
+#com.xiaomi.scanner
+
+# Mi Drop
+com.xiaomi.midrop
+
+# Google Photos
+com.google.android.apps.photos
+
+# Sound Recorder
+#com.android.soundrecorder
+
+# Mi Player
+com.miui.player
+
+# Netflix
+com.netflix.mediaclient
+
+# Miui Video Player
+com.miui.videoplayer
+
+# Mi MSA Global
+#$com.miui.msa.global
+
+# Mi Mover
+com.miui.huanji
+
+# Mi Global Shop
+#com.mi.global.shop
+
+# Mi Bug Report
+com.miui.bugreport
+
+# Google Files
+com.google.android.apps.nbu.files
+
+# Mi File Explorer
+# com.mi.android.globalFileexplorer
+
+# Google Find My Device
+# com.google.android.apps.adm
+
+# Fitbit
+com.fitbit.FitbitMobile
+
+# Miui FM Service
+# com.miui.fmservice
+
+# Miui FM
+# com.miui.fm
+
+# Miui Gallery
+com.miui.gallery
+
+# Miui Media Editor
+com.miui.mediaeditor
+
+# Mi Xiaomi Global Game Manager
+com.xiaomi.glgm
+
+# Mi Picks
+com.xiaomi.mipicks
+
+# Gmail
+com.google.android.gm
+
+# Google Search
+com.google.android.googlequicksearchbox
+
+# Google Hotword Enrollment
+com.android.hotwordenrollment.xgoogle
+
+# Google Hotword Enrollment OK Google
+com.android.hotwordenrollment.okgoogle
+
+# Google Subscriptions
+com.google.android.apps.subscriptions.red
+
+# Google One Time Initializer
+com.google.android.onetimeinitializer
+
+# Google Videos
+com.google.android.videos
+
+# Google Wallet NFC
+#com.google.android.apps.walletnfcrel
+
+# Google Chromecast
+com.google.android.apps.chromecast.app
+
+# Mi Joyose
+com.xiaomi.joyose
+
+# Jewels Blast Adventure Free
+com.jewelsblast.ivygames.Adventure.free
+
+# Logame Puzzle Last Bullet
+com.logame.puzzle.lastbullet
+
+# LinkedIn
+com.linkedin.android
+
+# Google Tachyon
+com.google.android.apps.tachyon
+
+# Facebook App Manager
+com.facebook.appmanager
+
+# Facebook Services
+com.facebook.services
+
+# Facebook System
+com.facebook.system
+
+# Mi AI Assistant
+com.xiaomi.aicr
+
+# Mi Global Browser
+com.mi.globalbrowser
+
+# Xiaomi Payment
+com.xiaomi.payment
+
+# WPS Xiaomi Abroad Lite
+cn.wps.xiaomi.abroad.lite
+
+# Xiaomi Smarthome
+com.xiaomi.smarthome

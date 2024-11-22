@@ -1,0 +1,8 @@
+# AliExpress
+com.alibaba.aliexpresshd
+
+# Amazon Music
+com.amazon.mp3
+
+# Amazon Shopping
+com.amazon.mShop.android.shopping
