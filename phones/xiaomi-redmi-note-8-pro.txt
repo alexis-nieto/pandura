@@ -1,0 +1,98 @@
+# AliExpress
+com.alibaba.aliexpresshd
+
+# App Vault
+com.mi.android.globalminusscreen
+
+# Mi Analytics
+com.miui.analytics
+
+# Mi Calculator
+com.miui.calculator
+
+# Google Chrome
+com.android.chrome
+
+# Digital Wellbeing
+com.google.android.apps.wellbeing
+
+# Google Tachyon
+com.google.android.apps.tachyon
+
+# Mi Facemoyi Keyboard
+com.facemoji.lite.xiaomi
+
+# Facebook
+com.facebook.katana
+com.facebook.system
+com.facebook.appmanager
+com.facebook.services
+
+#Feedback
+com.miui.bugreport
+
+# MIUI Gallery
+#com.miui.gallery
+
+# GBoard
+com.google.android.inputmethod.latin
+
+# Gmail
+com.google.android.gm
+
+# Google Search
+com.google.android.googlequicksearchbox
+
+# Google Hotword Enrollment
+com.android.hotwordenrollment.xgoogle
+
+# Google Hotword Enrollment OK Google
+com.android.hotwordenrollment.okgoogle
+
+# Google Music
+com.google.android.music
+
+# Google Videos
+com.google.android.videos
+
+# Google Lens
+com.google.ar.lens
+
+# LinkedIn
+com.linkedin.android
+
+# Mi Global Browser
+com.mi.globalbrowser
+
+# Xiaomi Payment
+com.xiaomi.payment
+
+# WPS Xiaomi Abroad Lite
+cn.wps.xiaomi.abroad.lite
+
+# Miui Video Player
+com.miui.videoplayer
+
+# Sound Recorder
+#com.android.soundrecorder
+
+# Mi Player
+com.miui.player
+
+# Netflix
+com.netflix.mediaclient
+
+# Mi MSA Global
+# com.miui.msa.global
+
+# Mi Mover
+com.miui.huanji
+
+# Google Photos
+com.google.android.apps.photos
+
+# Miui Fashion Gallery
+com.miui.android.fashiongallery
+
+# Youtube
+com.google.android.youtube
